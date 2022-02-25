@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "cryptolist",
+    "slug": "cryptolist",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "cryptolist"
+}
