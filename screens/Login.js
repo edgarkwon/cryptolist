@@ -3,10 +3,10 @@ import styled from "styled-components/native";
 
 const Container = styled.View``;
 const Text = styled.Text``;
-const Home = () => (
+const Login = () => (
   <Container>
-    <Text>Home</Text>
+    <Text>Login</Text>
   </Container>
 );
 
-export default Home;
+export default Login;
